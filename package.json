@@ -1,0 +1,6 @@
+{
+  "name": "nova-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Nova AI Chatbot powered by Gemini API and Netlify Functions",
+  "private": true
+}
